@@ -1,0 +1,544 @@
+#demo > img {
+	width: 95%;
+}
+body{
+	background: #dedede none repeat scroll 0 0;
+	font-family: "Cabin",sans-serif;
+	font-size: 100%;
+	overflow-x: hidden;
+}
+hr { 
+	display: block;
+	margin-top: 0.2em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	/*border-style: inset;*/
+	border-width: 7px;
+	border-color: #43C6DB;
+	margin-left: 10px;
+} 
+label{
+	font-weight: bold;
+}
+
+.margin-top-10{
+	margin-top: 10px;
+}
+
+
+.btn-file {
+	position: relative;
+	overflow: hidden;
+}
+.btn-file-browse-photo {
+	position: absolute;
+	top: 0;
+	right: 0;
+	min-width: 100%;
+	min-height: 100%;
+	font-size: 100px;
+	text-align: right;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	outline: none;
+	background: white;
+	cursor: inherit;
+	display: block;
+}
+
+.serial-number-li{
+	background-color: #fff;
+	border: 1px solid #ddd;
+
+	float: left;
+
+	margin-left: -1px;
+	padding: 6px 12px;
+
+	text-decoration: none;
+}
+
+
+.profile{
+	height:142px; 
+	width:100%; 
+	border:3px solid #BCC6CC;
+	background-image: url('../images/profile1.png');
+}
+
+.serial-number-ul{
+	list-style: none; 
+	margin-left:-40px;
+}
+
+.custom-width{
+	width:100%;
+}
+
+.span-photo{
+	width:100%; 
+	margin-top:5px;
+}
+
+.float-right-margin-top-6{
+	float:right;
+	margin-top:6px;
+}
+.serial-number label{
+	width: 10%;
+}
+
+.page_heading{
+	background: rgba(0, 0, 0, 0) url("../application/title-back.png") repeat-x scroll center center;
+}
+
+.page_heading h2 {
+	background-color: #fff;
+	color: #333;
+	display: inline-block;
+	font-size: 25px;
+	padding: 0 8px;
+	margin-top: 6px;
+}
+#demo > img {
+	width: 95%;
+}
+
+.uploader .loading_icon {
+	background: url("../../images/ajax-loader.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	height: 15px;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 50px;
+}
+
+.application_container .page-header {
+
+	/*background: #fbfbfb none repeat scroll 0 0;*/
+	margin: 5px 0 20px;
+
+}
+
+.header_color{
+	background: #fbfbfb none repeat scroll 0 0;
+}
+.application_container .form-group {
+	margin-bottom: 8px;
+}
+
+/* footer {
+  background: #fff none repeat scroll 0 0;
+border-top: 1px solid #eff0f4;
+bottom: 0;
+padding: 4px;
+position: fixed;
+text-align: center;
+width: 100%;
+margin-top: 20px;
+}
+.container.application_container {
+  margin-bottom: 20px;
+  }*/
+
+  /*online-application blade breadcrumb start*/
+
+  .application_container .breadcrumb {
+  	/*centering*/
+  	text-align: center;
+  	display: inline-block;
+  	width: 100%;
+  	overflow: hidden;
+  	border-radius: 5px;
+  	counter-reset: flag; 
+  	margin-bottom: 0px;
+  	padding: 8px 5px;
+  }
+
+  .breadcrumb a {
+  	text-decoration: none;
+  	outline: none;
+  	display: block;
+  	float: left;
+  	font-size: 12px;
+  	line-height: 36px;
+  	color: white;
+  	padding: 0 10px 0 60px;
+  	background: #666;
+  	background: linear-gradient(#666, #333);
+  	position: relative;
+  	width: 25%;
+  }
+
+  .breadcrumb a:first-child {
+  	padding-left: 46px;
+  	border-radius: 5px 0 0 5px; 
+  }
+  .breadcrumb a:first-child:before {
+  	left: 14px;
+  }
+  .breadcrumb a:last-child {
+  	border-radius: 0 5px 5px 0; 
+  	padding-right: 20px;
+  }
+
+
+  .breadcrumb a.active, .breadcrumb a:hover{
+  	background: #333;
+  	background: linear-gradient(#333, #000);
+  }
+  .breadcrumb a.active:after, .breadcrumb a:hover:after {
+  	background: #333;
+  	background: linear-gradient(135deg, #333, #000);
+  }
+
+
+  .breadcrumb a:after {
+  	content: '';
+  	position: absolute;
+  	top: 0; 
+  	right: -18px; 
+  	width: 36px; 
+  	height: 36px;
+  	transform: scale(0.707) rotate(45deg);
+  	z-index: 1;
+  	background: #666;
+  	background: linear-gradient(135deg, #666, #333);
+  	box-shadow: 
+  	2px -2px 0 2px rgba(0, 0, 0, 0.4), 
+  	3px -3px 0 2px rgba(255, 255, 255, 0.1);
+  	border-radius: 0 5px 0 50px;
+  }
+
+  .breadcrumb a:last-child:after {
+  	content: none;
+  }
+
+  .breadcrumb a:before {
+  	content: counter(flag);
+  	counter-increment: flag;
+  	/*some styles now*/
+  	border-radius: 100%;
+  	width: 20px;
+  	height: 20px;
+  	line-height: 20px;
+  	margin: 8px 0;
+  	position: absolute;
+  	top: 0;
+  	left: 30px;
+  	background: #444;
+  	background: linear-gradient(#444, #222);
+  	font-weight: bold;
+  }
+
+
+  .flat a, .flat a:after {
+  	background: white;
+  	color: black;
+  	transition: all 0.5s;
+  }
+  .flat a:before {
+  	background: white;
+  	box-shadow: 0 0 0 1px #ccc;
+  }
+  .flat a:hover, .flat a.active, 
+  .flat a:hover:after, .flat a.active:after{
+  	/*background: #9EEB62;*/
+  	background: #1f99c2 none repeat scroll 0 0;
+  	color: #050505;
+  	font-size: 15px;
+  	font-weight: bolder;
+  }
+  /*online-application blade breadcrumb start*/
+
+
+  /*for online application div hover*/
+
+
+  .ssc_check .fa{
+  	color: #23a162;
+  	font-size: 14px;
+  	padding-left: 2px;
+  }
+
+  .ssc_check span .suceess{
+  	color: #23a162;
+  }
+
+  .ssc_check span .failed{
+  	color: #bf0000;
+  }
+
+  .icon-size i:hover,.form_name:hover{
+  	cursor:pointer;
+  	color:  #a5b6aa;
+  }
+  .icon-size i
+  {
+  	color: #1f99c2;
+  	font-size: 110px;
+  	margin-top: 10px;
+  }
+  .form_name{
+  	font-size: 110px;
+  	color:#1F99C2;
+  }
+
+
+
+  .thumb-border:hover{
+  	border:3px solid #A5B6AA;
+  }
+
+  #mba_form {
+  	margin-bottom: 10px;
+  	margin-top: 10px;
+  }
+
+  /*for page footer*/
+  footer {
+  	background: #fff;
+  	padding: 12px;
+  	width: 100%;
+  	border-top: 1px solid #eff0f4;
+  	text-align:center;
+  	position: fixed;
+  	bottom: 0;
+  }
+  footer  p {
+  	color: #7A7676;
+  	font-size: 14px;
+  	margin: 0px;
+  }
+  footer  p a{
+  	color:#F44336;
+  }
+  footer  p a:hover{
+  	text-decoration:underline;
+  }
+
+  /*-------------application Complete Page---------------------*/
+
+  .ul-class{
+  	margin: 0;
+  	padding: 0;
+  	font-size: 18px;
+  	list-style-type: none;
+  }
+
+  .mtop-7{
+  	margin-top: 7px;
+  }
+
+  .header-name{
+  	font-weight:bold; 
+  	font-size:30px; 
+  	color:#26A0C9;
+  }
+
+  .padding-5{
+  	padding: 5px;
+  }
+
+  .mtop-30_wd100{
+  	margin-top:30px; width:100% 
+  }
+
+  .wd15_f25{
+  	width:15%;
+  	border-right:hidden; 
+  	font-size:25px;
+  }
+
+  .mtop-60_mright-30{
+  	margin-top:60px;
+  	float:right;margin-right:30px
+  }
+/*tr{
+	border:3px solid #A5B6AA;
+}
+
+.border-3{
+	border:3px solid #A5B6AA;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+	}*/
+
+	/*addmission examination part*/
+
+	.border-3{
+		border:1px solid #A5B6AA;
+	}
+
+
+	.serial{
+		margin-top: 3px;
+	}
+
+	.serial td{
+		padding: 2px 5px 2px 5px;
+	}
+
+
+
+	.info-table tr{
+		border-bottom: 1px solid  #DAF7A6 ;
+	}
+
+	.info-table{
+		margin-left: 5px;
+		width: 80%;
+	}
+
+
+	.applicant-info{
+		border-left: 1px solid #bdc3c7;
+		font-size: 16px;
+		padding: 5px;
+	}
+
+	.program-div{
+		border-bottom:1px solid #bdc3c7 ;
+		border-left:1px solid #bdc3c7 ; 
+		font-size:18px; padding:5px
+	}
+
+	.serial-gender-div{
+		border-bottom:1px solid #bdc3c7 ;
+		border-left:1px solid #bdc3c7 ; padding:10px;
+	}
+
+	.photo-div{
+		border-top:hidden;
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.header-div{
+		font-weight:bold; 
+		font-size:28px; 
+		color:#26A0C9 ;
+		border-bottom:4px solid #bdc3c7 ; 
+		padding:10px 0 10px 0;
+	}
+
+	.main-border{
+		border:1px solid #bdc3c7 ;
+	}
+
+	.serial-td{
+		border-left:hidden;
+		border-top:hidden; 
+		border-bottom:hidden;
+	}
+
+	.image{
+		height: 200px;
+		margin: 12px 0;
+		width: 184px;
+	}
+
+	.serial_input_box {
+		background-color: #fff;
+		background-image: none;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+		color: #555;
+		font-size: 14px;
+		height: 30px;
+		line-height: 1.42857;
+		padding: 6px 12px;
+		transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+		width: 50%;
+	}
+	.serial_input_label{
+		width: 40%;
+		font-weight: bold;
+		font-size: 15px;
+	}
+	.page-header .header-name{
+		margin-top: 5px;
+	}
+
+	.header-search{
+		color: #808080;
+		font-size: 20px;
+		font-weight: bold;
+	}
+	.payment_edit{
+		color: #3f790e;
+		cursor: pointer;
+		margin-left: 10px;
+	}
+	.applicant-info td.alert{
+		padding: 4px;
+	}
+
+
+
+	/*-----------application master blade menu-------- */
+
+	.online-menu{
+		margin-bottom:0;
+		margin-left:0;
+		margin-right:0;
+		background-color:#F5F5F5;
+		padding-top:7px;
+		padding-bottom:7px;
+		border-radius:4px;
+		padding-left:10px;
+		padding-right:10px;
+	}
+
+	.padding-left-margin-right-0{
+		padding-left:0;
+		margin-right:0;
+	}
+	.padding-left-right-0{
+		padding-left:0;
+		padding-right:0;
+	}
+	.font-18{
+		font-size:18px;
+	}
+
+
+
+	/*--------requireed sign-----------*/
+	.required-sign{
+		color:red;
+	}
+
+	/*name uppercase convert*/
+
+	.uppercase_name{
+		text-transform:uppercase;
+	}
+	
+	/*confirmation declaration*/
+	.declaration{
+		font-size:15px;
+		font-weight:bold;
+		float:right;
+		margin-right:20px;
+		color:#85929e;
+	}
+
+	.declaration_confirm{
+		font-size:15px;
+		font-weight:bold;
+		float:right;
+		margin-right:20px;
+	}
+
+	/*applicant info search*/
+	.search_panel_bg_color{
+		background-color:#aed6f1;
+	}
+	.search_panel_bg_color .search_width{
+		width: 40%;
+	}

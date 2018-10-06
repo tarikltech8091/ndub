@@ -1,0 +1,193 @@
+03-04-2018 | 09:32:38 |   10.47.10.10|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+03-04-2018 | 09:40:03 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-04-2018 | 09:40:11 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-04-2018 | 09:40:12 |   10.47.10.10|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Google Chrome|windows|||
+03-04-2018 | 09:40:23 |   10.47.10.10|771201|LogIn|http://202.4.111.34/register-dashboard/public/logout/mr.jonny|Google Chrome|windows|||
+03-04-2018 | 09:40:24 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-04-2018 | 09:40:32 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-04-2018 | 09:40:33 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 09:46:00 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Google Chrome|windows|||
+03-04-2018 | 09:46:15 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery?date_from=2018-01-01&date_to=2018-03-04&program=01|Google Chrome|windows|||
+03-04-2018 | 09:46:42 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 09:46:44 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 09:46:51 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 09:49:24 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 09:49:27 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Google Chrome|windows|||
+03-04-2018 | 09:49:31 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 09:49:33 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery|Google Chrome|windows|||
+03-04-2018 | 09:49:38 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery?batch_no=2&program=01|Google Chrome|windows|||
+03-04-2018 | 09:51:20 |   10.47.10.10|771101|Accounts Fee Types|http://202.4.111.34/register-dashboard/public/accounts/fee-category|Google Chrome|windows|||
+03-04-2018 | 09:53:46 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 09:53:54 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 09:54:00 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 09:55:54 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 09:55:57 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Google Chrome|windows|||
+03-04-2018 | 09:56:02 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 09:56:03 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 09:56:09 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 09:56:10 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery|Google Chrome|windows|||
+03-04-2018 | 09:56:16 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery?batch_no=2&program=01|Google Chrome|windows|||
+03-04-2018 | 09:59:26 |   10.47.11.10|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+03-04-2018 | 09:59:59 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 10:00:01 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery|Google Chrome|windows|||
+03-04-2018 | 10:00:03 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 10:00:04 |   10.47.10.10|771101|Accounts Waiver|http://202.4.111.34/register-dashboard/public/accounts/waiver|Google Chrome|windows|||
+03-04-2018 | 10:48:13 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 10:48:15 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 10:48:20 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 10:49:05 |   10.47.10.10|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+03-04-2018 | 10:49:07 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+03-04-2018 | 10:49:12 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+03-04-2018 | 10:49:13 |   10.47.10.10|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+03-04-2018 | 10:49:22 |   10.47.10.10|771201|Registrar Account Summery|http://202.4.111.34/register-dashboard/public/register/account-summery|Mozilla Firefox|windows|||
+03-04-2018 | 10:49:29 |   10.47.10.10|771201|Registrar Account Summery|http://202.4.111.34/register-dashboard/public/register/account-summery?academic_year=0&program=01&semester=0|Mozilla Firefox|windows|||
+03-04-2018 | 12:11:39 |   103.4.146.142|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:11:43 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:11:50 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:11:50 |   103.4.146.142|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:11:59 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:12:02 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:14:00 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:24:02 |   103.4.146.142|771101|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:24:05 |   103.4.146.142|771101|Online Application|http://202.4.111.34/register-dashboard/public/online-application|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:24:09 |   103.4.146.142|771101|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 12:25:42 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:28:59 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:29:18 |   10.47.10.10|771101|Admission Payment|http://202.4.111.34/register-dashboard/public/accounts/admission/payement/list|Google Chrome|windows|||
+03-04-2018 | 12:29:22 |   10.47.10.10|771101|Admission Payment|http://202.4.111.34/register-dashboard/public/accounts/admission/payement/list?program=01|Google Chrome|windows|||
+03-04-2018 | 12:29:24 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:29:25 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Google Chrome|windows|||
+03-04-2018 | 12:29:40 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery?date_from=2018-01-01&date_to=2018-03-04&program=0|Google Chrome|windows|||
+03-04-2018 | 12:29:57 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:29:59 |   10.47.10.10|771101|Admission Payment|http://202.4.111.34/register-dashboard/public/accounts/admission/payement/list|Google Chrome|windows|||
+03-04-2018 | 12:30:03 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:30:05 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Google Chrome|windows|||
+03-04-2018 | 12:30:13 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery?date_from=2018-01-01&date_to=2018-03-04&program=0|Google Chrome|windows|||
+03-04-2018 | 12:30:38 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery|Google Chrome|windows|||
+03-04-2018 | 12:30:42 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery?batch_no=0&program=01|Google Chrome|windows|||
+03-04-2018 | 12:30:48 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 12:30:55 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:31:02 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/ea537d14-0a37-46c6-bc68-106753cbd5eb|Google Chrome|windows|||
+03-04-2018 | 12:31:03 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:31:12 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/9a6c8a8d-9db6-4943-b16d-97c2a04d31c4|Google Chrome|windows|||
+03-04-2018 | 12:31:12 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:31:16 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/9a6c8a8d-9db6-4943-b16d-97c2a04d31c4|Google Chrome|windows|||
+03-04-2018 | 12:31:16 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:31:23 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/82c068a4-077b-4268-8a60-57b7b59404ba|Google Chrome|windows|||
+03-04-2018 | 12:31:23 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:31:27 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/9a6c8a8d-9db6-4943-b16d-97c2a04d31c4|Google Chrome|windows|||
+03-04-2018 | 12:31:28 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:31:34 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/9a6c8a8d-9db6-4943-b16d-97c2a04d31c4|Google Chrome|windows|||
+03-04-2018 | 12:31:34 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:31:44 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/82c068a4-077b-4268-8a60-57b7b59404ba|Google Chrome|windows|||
+03-04-2018 | 12:31:44 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Google Chrome|windows|||
+03-04-2018 | 12:31:47 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 12:31:49 |   10.47.10.10|771101|Accounts Waiver|http://202.4.111.34/register-dashboard/public/accounts/waiver|Google Chrome|windows|||
+03-04-2018 | 12:31:55 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:01 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/5b7fcd26-3b97-4960-adbd-330d0cc527d0|Google Chrome|windows|||
+03-04-2018 | 12:32:01 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:04 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/732acc76-1f57-48ec-8bb9-46da24c830ae|Google Chrome|windows|||
+03-04-2018 | 12:32:05 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:07 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/7e035c6b-30ba-41ce-83bc-6d542c8239c4|Google Chrome|windows|||
+03-04-2018 | 12:32:07 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:09 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/55fe7346-4226-4b7e-8199-b8aa3c92d1b5|Google Chrome|windows|||
+03-04-2018 | 12:32:10 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:12 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/0aa112e3-45bc-4082-b208-77d168a3111c|Google Chrome|windows|||
+03-04-2018 | 12:32:12 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:17 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/0aa112e3-45bc-4082-b208-77d168a3111c|Google Chrome|windows|||
+03-04-2018 | 12:32:18 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:21 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/6fb52eb9-8855-4f7f-bc51-82d691bda323|Google Chrome|windows|||
+03-04-2018 | 12:32:22 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:24 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/6fb52eb9-8855-4f7f-bc51-82d691bda323|Google Chrome|windows|||
+03-04-2018 | 12:32:25 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:27 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/4133402d-8746-409f-938c-393a5efeecd8|Google Chrome|windows|||
+03-04-2018 | 12:32:27 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:32:31 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:32:33 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 12:32:40 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=6-16010136|Google Chrome|windows|||
+03-04-2018 | 12:32:41 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 12:32:46 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010122|Google Chrome|windows|||
+03-04-2018 | 12:33:04 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/ec96bf90-516d-4eb3-9662-5314c6293258|Google Chrome|windows|||
+03-04-2018 | 12:33:04 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010122|Google Chrome|windows|||
+03-04-2018 | 12:33:07 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:33:09 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 12:41:10 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:41:13 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Google Chrome|windows|||
+03-04-2018 | 12:41:21 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery?date_from=2018-01-01&date_to=2018-03-04&program=0|Google Chrome|windows|||
+03-04-2018 | 12:41:35 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:41:41 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:41:53 |   10.47.10.10|771101|Accounts Fee Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/fee-payment/delete/0aa112e3-45bc-4082-b208-77d168a3111c|Google Chrome|windows|||
+03-04-2018 | 12:41:54 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:42:18 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 12:42:20 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:42:23 |   10.47.10.10|771101|Admission Payment|http://202.4.111.34/register-dashboard/public/accounts/admission/payement/list|Google Chrome|windows|||
+03-04-2018 | 12:44:59 |   10.47.10.10|771101|Admission Payment|http://202.4.111.34/register-dashboard/public/accounts/admission/payement/list?program=01|Google Chrome|windows|||
+03-04-2018 | 12:45:02 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:45:16 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 12:45:21 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010122|Google Chrome|windows|||
+03-04-2018 | 12:45:25 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/ec96bf90-516d-4eb3-9662-5314c6293258|Google Chrome|windows|||
+03-04-2018 | 12:45:25 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010122|Google Chrome|windows|||
+03-04-2018 | 12:45:30 |   10.47.10.10|771101|Accounts Student Payment Edit|http://202.4.111.34/register-dashboard/public/accounts/student-payment-edit/ec96bf90-516d-4eb3-9662-5314c6293258|Google Chrome|windows|||
+03-04-2018 | 12:45:35 |   10.47.10.10|771101|Accounts Student Payment Update|http://202.4.111.34/register-dashboard/public/accounts/student-payment-update/ec96bf90-516d-4eb3-9662-5314c6293258|Google Chrome|windows|||
+03-04-2018 | 12:45:35 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010122|Google Chrome|windows|||
+03-04-2018 | 12:45:44 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery|Google Chrome|windows|||
+03-04-2018 | 12:45:48 |   10.47.10.10|771101|Accounts Student Payment Summery|http://202.4.111.34/register-dashboard/public/accounts/student/payment/summery?batch_no=0&program=01|Google Chrome|windows|||
+03-04-2018 | 12:45:53 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-04-2018 | 12:45:59 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=3-15010136|Google Chrome|windows|||
+03-04-2018 | 12:46:03 |   10.47.10.10|771101|Accounts Student Payment Delete|http://202.4.111.34/register-dashboard/public/accounts/student-payment-delete/52892304-267e-47ca-92a2-257cf717265f|Google Chrome|windows|||
+03-04-2018 | 12:46:03 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=3-15010136|Google Chrome|windows|||
+03-04-2018 | 12:46:07 |   10.47.10.10|771101|Accounts Student Payment Edit|http://202.4.111.34/register-dashboard/public/accounts/student-payment-edit/0224b785-ac26-499a-8033-7f68e0fd7651|Google Chrome|windows|||
+03-04-2018 | 12:46:31 |   10.47.10.10|771101|Accounts Student Payment Update|http://202.4.111.34/register-dashboard/public/accounts/student-payment-update/0224b785-ac26-499a-8033-7f68e0fd7651|Google Chrome|windows|||
+03-04-2018 | 12:46:32 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=3-15010136|Google Chrome|windows|||
+03-04-2018 | 12:46:39 |   10.47.10.10|771101|Accounts Student Payment Edit|http://202.4.111.34/register-dashboard/public/accounts/student-payment-edit/0224b785-ac26-499a-8033-7f68e0fd7651|Google Chrome|windows|||
+03-04-2018 | 12:46:52 |   10.47.10.10|771101|Accounts Student Payment Update|http://202.4.111.34/register-dashboard/public/accounts/student-payment-update/0224b785-ac26-499a-8033-7f68e0fd7651|Google Chrome|windows|||
+03-04-2018 | 12:46:53 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=3-15010136|Google Chrome|windows|||
+03-04-2018 | 12:47:49 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:48:03 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:48:05 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:48:27 |   10.47.10.10|771101|Accounts Fee Types|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:48:27 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:48:32 |   10.47.10.10|771101|Edit Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/account-payment/edit/6fb52eb9-8855-4f7f-bc51-82d691bda323|Google Chrome|windows|||
+03-04-2018 | 12:48:35 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:48:47 |   10.47.10.10|771101|Accounts Fee Types|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:48:48 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:49:04 |   10.47.10.10|771101|Accounts Fee Types|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:49:04 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:49:19 |   10.47.10.10|771101|Accounts Fee Types|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:49:20 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:49:22 |   10.47.10.10|771101|Edit Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/account-payment/edit/b8a4a861-5d10-476d-94d9-1783e3b337d1|Google Chrome|windows|||
+03-04-2018 | 12:49:27 |   10.47.10.10|771101|Update Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/account-payment/edit/b8a4a861-5d10-476d-94d9-1783e3b337d1|Google Chrome|windows|||
+03-04-2018 | 12:49:28 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:49:49 |   10.47.10.10|771101|Accounts Fee Types|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:49:49 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:50:03 |   10.47.10.10|771101|Accounts Fee Types|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:50:04 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:50:14 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 12:50:16 |   10.47.10.10|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Google Chrome|windows|||
+03-04-2018 | 12:50:20 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-04-2018 | 13:54:59 |   103.4.146.142|771101|Online Application|http://202.4.111.34/register-dashboard/public/online-application|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 13:55:03 |   103.4.146.142|771101|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 13:55:04 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 14:16:52 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 14:20:23 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 14:23:30 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 14:28:36 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 14:29:47 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:15:27 |   103.4.146.142|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:15:27 |   103.4.146.142|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:15:29 |   103.4.146.142|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:15:29 |   103.4.146.142|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:19:26 |   103.4.146.142|771101|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:23:32 |   103.4.146.142|771101|Online Application|http://202.4.111.34/register-dashboard/public/online-application|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:00 |   103.4.146.142|771101|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:00 |   103.4.146.142|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:03 |   103.4.146.142|771101|Accounts Fee Payment|http://202.4.111.34/register-dashboard/public/accounts/fee-payment|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:05 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:05 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:08 |   103.4.146.142|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:08 |   103.4.146.142|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:14 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:17 |   103.4.146.142|771101|Accounts Applicant Total Amount|http://202.4.111.34/register-dashboard/public/accounts/applicant/total-amount|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:17 |   103.4.146.142|771101|Accounts Applicant Total Amount|http://202.4.111.34/register-dashboard/public/accounts/applicant/total-amount|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:21 |   103.4.146.142|771101|Admission Payment|http://202.4.111.34/register-dashboard/public/accounts/admission/payement/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2018 | 15:24:21 |   103.4.146.142|771101|Admission Payment|http://202.4.111.34/register-dashboard/public/accounts/admission/payement/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh

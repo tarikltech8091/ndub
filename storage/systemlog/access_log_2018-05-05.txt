@@ -1,0 +1,29 @@
+05-05-2018 | 15:27:06 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka Division|Bangladesh
+05-05-2018 | 15:29:07 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka Division|Bangladesh
+05-05-2018 | 15:32:35 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka Division|Bangladesh
+05-05-2018 | 15:40:12 |   103.4.146.142|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+05-05-2018 | 15:40:22 |   103.4.146.142|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application|Mozilla Firefox|windows|||
+05-05-2018 | 15:40:24 |   103.4.146.142|guest|Applicant Admission Result|http://202.4.111.34/register-dashboard/public/online-application/applicant/admission-result|Mozilla Firefox|windows|||
+05-05-2018 | 15:40:26 |   103.4.146.142|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Mozilla Firefox|windows|||
+05-05-2018 | 15:40:29 |   103.4.146.142|guest|Applicant Admission Result|http://202.4.111.34/register-dashboard/public/online-application/applicant/admission-result|Mozilla Firefox|windows|||
+05-05-2018 | 15:40:31 |   103.4.146.142|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:11 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:13 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:18 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:19 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:49 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:49 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:54 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:54 |   203.188.243.150|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:57 |   203.188.243.150|771201|LogIn|http://202.4.111.34/register-dashboard/public/logout/mr.jonny|Mozilla Firefox|windows|||
+05-05-2018 | 15:41:57 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:03 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:04 |   203.188.243.150|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:16 |   203.188.243.150|771201|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:18 |   203.188.243.150|771201|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:18 |   203.188.243.150|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:21 |   203.188.243.150|771201|LogIn|http://202.4.111.34/register-dashboard/public/logout/mr.jonny|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:22 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:26 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:26 |   203.188.243.150|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+05-05-2018 | 15:42:28 |   203.188.243.150|771201|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||

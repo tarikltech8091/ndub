@@ -1,0 +1,1167 @@
+/*
+* Custom CSS
+*/
+div#page-wrapper {
+  padding: 15px;
+}
+
+.toggle-btn {
+  border-radius: 20%;
+}
+
+.login_form{
+  padding: 25px 0 0;
+}
+
+.profile_tab #myTab {
+  background: white none repeat scroll 0 0;
+  box-shadow: 0 4px 5px 0 #bfbfbf;
+  display: block;
+}
+.profile_tab #myTab li.active a {
+  background: #f6f6f6 none repeat scroll 0 0;
+  border-bottom: 3px solid  #f44336;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  
+}
+
+.profile_tab #myTabContent {
+  background: white none repeat scroll 0 0;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0 2px 3px 2px #e5e5e5;
+  padding: 9px;
+}
+
+.profile_tab #myTab li i {
+  color: #505050;
+  font-size: 17px;
+  padding-right: 11px;
+}
+
+.profile_tab .nav > li > a {
+  display: block;
+  position: relative;
+  padding: 12px 15px;
+}
+
+.profile_tab .nav-tabs > li > a {
+  line-height: 1.42857;
+  border: 0;
+  border-radius:0;
+  margin-right: 0;
+}
+
+.page_heading_breadcrumb .breadcrumb{
+ background-color: #ffffff;
+ border-radius: 4px;
+ list-style: outside none none;
+ margin-bottom: 8px;
+ padding: 5px 8px;
+}
+
+.page_heading_breadcrumb .breadcrumb i{
+ padding-right: 8px;
+}
+
+.page_heading_breadcrumb .breadcrumb a{
+  text-decoration: none;
+  font-size: 20px;
+}
+.page_heading_breadcrumb .active a{
+  color: #777;
+}
+
+.input-group.date{
+  margin: 0;
+  width: 100%;
+}
+
+.page_name.profile_details_left{
+  color: #f44336;
+  font-weight: bold;
+  text-align: center;
+}
+
+/*-----------Accounts Applicant Payemt-------------*/
+
+.applicant_payment_table table thead tr th,.applicant_payment_table table tbody tr td{
+  padding: 5px !important;
+
+}
+.applicant_payment_table table button,.applicant_payment_table table tfoot .btn{
+  padding: 1px 5px;
+}
+.approved_mark{
+  color: #76DC09;
+  font-size: 15px;
+  padding: 0 10px;
+}
+.sorting_form {
+  padding-bottom: 4%;
+}
+
+.sorting_form .form-control{
+  height: 28px;
+  padding: 4px 12px;
+}
+.sorting_form .form-group label{
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.btn.cashpayment {
+  margin: 2px 5px;
+  padding: 2px 8px;
+}
+
+.ul-class{
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  list-style-type: none;
+}
+
+.mtop-7{
+  margin-top: 7px;
+}
+
+.header-name{
+  font-weight:bold; 
+  font-size:30px; 
+  color:#26A0C9;
+}
+
+.padding-5{
+  padding: 5px;
+}
+
+.mtop-30_wd100{
+  margin-top:30px; width:100% 
+}
+
+.wd15_f25{
+  width:15%;
+  border-right:hidden; 
+  font-size:25px;
+}
+
+.mtop-60_mright-30{
+  margin-top:60px;
+  float:right;margin-right:30px
+}
+/*tr{
+  border:3px solid #A5B6AA;
+}
+
+.border-3{
+  border:3px solid #A5B6AA;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+  }*/
+
+  /*addmission examination part*/
+
+  .border-3{
+    border:1px solid #A5B6AA;
+  }
+
+
+  .serial{
+    margin-top: 3px;
+  }
+
+  .serial td{
+   padding: 2px 0;
+ }
+
+
+
+ .info-table tr{
+  border-bottom: 1px solid  #DAF7A6 ;
+}
+
+.info-table{
+  margin-left: 10px;
+  width: 80%;
+}
+
+
+.applicant-info{
+  font-size: 16px;
+  padding: 5px;
+}
+
+.program-div{
+  border-bottom: 1px solid #bdc3c7;
+  font-size: 18px;
+}
+
+.serial-gender-div{
+  border-bottom:1px solid #bdc3c7 ;
+  padding:3px;
+}
+
+.photo-div{
+  border-top:hidden;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.header-div{
+  font-weight:bold; 
+  font-size:28px; 
+  color:#26A0C9 ;
+  border-bottom:4px solid #bdc3c7 ; 
+  padding:10px 0 10px 0;
+}
+
+.main-border{
+  border:1px solid #bdc3c7;
+}
+
+.serial-td{
+  border-left:hidden;
+  border-top:hidden; 
+  border-bottom:hidden;
+}
+
+.image{
+  height: 188px;
+  margin: 16% 0;
+  width: 95%;
+}
+
+.serial_input_box {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: #555;
+  font-size: 14px;
+  height: 30px;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  width: 50%;
+}
+.serial_input_label{
+  width: 40%;
+  font-weight: bold;
+  font-size: 15px;
+}
+.page-header .header-name{
+  margin-top: 5px;
+}
+
+.header-search{
+  color: #808080;
+  font-size: 20px;
+  font-weight: bold;
+}
+.payment_edit{
+  color: #3f790e;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.ajax_loader.loading_icon {
+  background: rgba(0, 0, 0, 0) url("../images/ajax-loader.gif") repeat scroll 0 0;
+  height: 22px;
+  margin-left: 40%;
+  width: 95px;
+}
+
+.academic_result thead tr th,.academic_result tbody tr td{
+  padding: 5px !important;
+
+}
+
+
+
+/*--------------Register applicant page--------------------*/
+.applicant_register thead tr th input[type="checkbox"]{
+  margin-left: 4px;
+}
+
+.applicant_register tbody tr td input[type="checkbox"]{
+  margin-left: 20px;
+
+}
+
+.applicant_register tbody tr .mark_icon{
+  text-align: center;
+}
+
+.applicant_register thead tr th,.applicant_register thead tr td{
+  float: none !important;
+}
+/*--------------------admission registration confirm----------------*/
+#demo > img {
+  border: 3px solid #cccccc;
+  width: 100%;
+}
+
+.float-right-margin-top-6{
+  float:right;
+  margin-top:6px;
+}
+
+.submit_bottom{
+  margin-bottom: 20px;
+}
+
+/*--------------------academic settings----------------*/
+.manage_course{
+  cursor: pointer;
+}
+.manage_course .course_settings_edit i{
+  color: #0e9d58;
+}
+
+.manage_course .course_settings_delete i{
+  color: #b60000;
+}
+
+.cours_catalogue_save{
+
+  padding-right: 4%;
+  padding-top: 1%;
+}
+
+
+
+
+
+
+/***************************************
+All Dashboard Custom css
+***************************************/
+
+/*
+#################
+## Custom CSS
+################
+*/
+.page_heading{
+ border-bottom: 1px solid #eee;
+ border-left: 3px solid #3399ff;
+ margin: 36px 11px 17px;
+ padding-bottom: 3px;
+ padding-left: 5px;
+ padding-top: 4px;
+ background: #ffffff none repeat scroll 0 0;
+}
+
+.page_heading_student{
+ border-bottom: 1px solid #bababa;
+ margin: 12px 0;
+ padding-bottom: 14px;
+ padding-left: 11px;
+ padding-top: 8px;
+}
+
+.page_heading_student i{
+  font-size: 34px;
+  margin-right: 10px;
+}
+
+.page_heading_student span{
+ color: #f44336;
+ font-size: 30px;
+}
+
+.page_row{
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 8px;
+}
+
+.page_row .panel .panel-heading {
+  height: 30px;
+  padding: 5px 15px;
+}
+
+.form-group label{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.schedule .page_heading{
+  margin: 36px 0 17px;
+}
+
+.schedule table tbody tr td span{
+  display: block;
+
+}
+
+.schedule table tbody tr td{
+  text-align: center;
+  
+}
+
+.schedule table tbody tr td span:first-child{
+ font-weight: bold;
+
+}
+
+.course .page_heading{
+  margin: 36px 0 17px;
+}
+
+.course_booking .col-md-2{
+  margin-top: 55px;
+  text-align: center;
+  width: 16.6667%;
+}
+
+.course_booking .col-md-5{
+
+}
+
+.course_booking .col-md-2 input {
+  margin-bottom: 2px;
+  width: 86%;
+}
+
+.course_booking select[multiple] option{
+  border-radius: 9px;
+  margin-bottom: 7px;
+  padding: 5px 5px 6px;
+}
+
+.toggle-btn {
+  background: #d9edf7 none repeat scroll 0 0;
+  border-radius: 0;
+  margin-left: 1em;
+}
+.student_info label, .student_credit label{
+  display: block;
+  font-size: 12px;
+  font-weight: bold
+}
+
+.student_info{
+  float: left;
+}
+
+.student_credit{
+  float: right;
+}
+
+
+.tbl_caption{
+  background: #bfbfbf;
+  text-align: center;
+}
+
+.grade_sheet table{
+  margin-bottom: 23px;
+  margin-top: 23px;
+}
+.course .text-left{
+  float: left;
+
+}
+
+.course .text-right{
+  float: right;
+
+}
+.personal_info p{
+  line-height: 26px;
+}
+
+.personal_info p label{
+ font-size: 14px;
+ font-weight: bold;
+ width: 45%;
+}
+
+.personal_info p span{
+ font-size: 14px;
+ text-align: right;
+ width: 55%;
+}
+.profile_image_show{
+
+}
+.profile_image_show image{
+
+}
+/*.personal_info.admin_info p label{
+  width: 40%;
+  }*/
+
+/*.advising .input-group{
+  margin: 0;
+  width: 100%;
+}
+
+.advising select{
+   padding: 10px 0;
+}
+.advising label{
+   display: inline-block;
+    font-size: 11px;
+ 
+    }*/
+
+    .advising .input-group-addon{
+      float: left;
+      padding: 9px 16px;
+      border-right: none;
+      text-align: center;
+    }
+
+    .advising .input-icon .form-control{
+      width: 85%;
+    }
+
+    .advising_result{
+     margin-top: 25px;
+   }
+
+   .advising_result .btn_upload{
+    float: right;
+  }
+
+  .advising_result table thead .serach_result{
+    background: #bfbfbf none repeat scroll 0 0;
+    text-align: center;
+
+  }
+  .advising .result_processing{
+    width: 20%;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .advising .radio-inline{
+    padding-left: 9%;
+  }
+
+  .panel-body{
+    padding: 15px;
+  }
+
+  .semester .input-group, .official_details .input-group,.personal_details .input-group{
+    margin: 0;
+    width: 100%;
+  }
+
+  .course_booking .col-md-2.view_btn{
+    margin-top: 26px;
+    text-align: center;
+    width: 16.6667%;
+  }
+
+  .label_heading {
+    background: #eeeeee none repeat scroll 0 0;
+    border-bottom: 1px solid #eee;
+    border-left: 3px solid #3399ff;
+    margin: 36px 11px 17px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-top: 4px;
+  }
+
+  .report_view {
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    width: 80%;
+  }
+  .report_view.reprt_color_1{
+    background: #f44336 none repeat scroll 0 0;
+    border-color:  #f44336;
+
+  }
+
+  .report_view.reprt_color_2{
+    background: #1f6f43 none repeat scroll 0 0;
+    border-color:  #1f6f43;
+
+  }
+
+  .report_view.reprt_color_3{
+    background: #f4731d none repeat scroll 0 0;
+    border-color:  #f4731d;
+
+  }
+
+
+  .report_view .report_name{
+    color: white;
+    margin-bottom: 0;
+    padding-bottom: 6px;
+    text-align: center;
+  }
+  .report_name a{
+
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  .page_row_dash{
+   margin: 15px 15px;
+ }
+
+
+ .profile_img span img{
+   background-size: cover;
+   border-radius: 3em;
+   display: block;
+   float: left;
+   height: 40px;
+   width: 40px;
+ }
+
+ i.fa.fa-object-group {
+  color: #ababab;
+}
+
+span.blue3{
+  background-color: #ffca28;
+}
+
+.profile .panel-body{
+  padding: 0px;
+
+}
+
+.profile.panel{
+
+  width: 82%;
+}
+
+.profile_image_show img{
+
+  height: 170px;
+  width: 100%;
+}
+
+.profile_image_show span{
+ font-weight: bold;
+ padding-right: 10px;
+
+}
+.profile_image_show p{
+  font-size: 12px;
+
+}
+.dashboard_name{
+  color: #f44336;
+  float: left;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  width: 60%;
+}
+.user-panel-top{
+  display: inline;
+}
+
+.page_row_dash .col-md-2{
+
+}
+
+.report_view.reprt_color_1 > p,.report_view.reprt_color_2 > p,.report_view.reprt_color_3 > p {
+  font-size: 12px;
+  width: 100%;
+}
+
+
+
+.report_view i {
+  color: #ffffff;
+  font-size: 45px;
+  height: 47px;
+  padding: 6px 0 0;
+}
+
+.report_view p a{
+  text-decoration: none;
+}
+
+/*.profile_details {
+    float: right;
+    margin: 0 1.8em 0 0;
+    width: 13%;
+    }*/
+
+
+
+    .noticeboard{
+
+      margin-top: 35px;
+
+    }
+
+    .student_payment p{
+      font-size: 15px;
+    }
+
+    .student_payment p span {
+      display: inline-block;
+      font-weight: bold;
+      margin-right: 11px;
+      width: 36%;
+    }
+
+    .student_payment .right_side{
+
+    }
+
+
+    .student_payment {
+      overflow: hidden;
+      width: 100%;
+    }
+
+    .student_payment .form-group{
+     margin-top: 30px;
+   }
+
+   .table td, .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    padding: 5px !important;
+    font-size: 12px;
+  }
+
+  .report_view .number {
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .profile .btn-success{
+    padding: 3.5px 8px;
+    margin-top: 4px;
+  }
+
+  .error-main{
+    margin: 0;
+  }
+  .noticeboard_list{
+
+  }
+  .noticeboard_list ul{
+    list-style: none;
+    margin-left: -30px;
+  }
+  .noticeboard_list ul li{
+    list-style: none;
+  }
+
+  .notification_desc p:hover{
+    color: #00aced;
+    font-size: 13px;
+    padding: 2px 0;
+  }
+
+  .today_schedule_list ul{
+    list-style: none;
+    margin-left: -30px;
+  }
+
+  .today_schedule_list ul li{
+    border-radius: 6px;
+    margin-bottom: 3px;
+    padding: 2px 5px;
+
+  }
+
+  .today_schedule_list ul li span a{
+   margin-left: 15px;
+   text-decoration: none;
+   font-weight: bold;
+
+ }
+
+
+ .today_schedule_list ul li:hover{
+  background-color: #a7a798;
+  border-color: #a7a798;
+  color: #ffffff;
+}
+
+.today_schedule_list ul li span a:hover{
+  color: #ffffff;
+
+}
+
+.today_schedule_list ul li i{
+  padding-right: 5px;
+}
+
+.today_schedule_list .more_btn a{
+  margin-left: 5%;
+  margin-top: 1%;
+} 
+
+
+
+
+.change_password_panel button{
+  padding: 2px 12px;
+}
+
+.profile_img span {
+  background-size: cover;
+  border-radius: 3em;
+  display: block;
+  float: left;
+  height: 40px;
+  width: 49px;
+}
+.profile_details {
+  float: right;
+  margin: 0 56px 0 0;
+  width: 18%;
+}
+
+.user-name {
+  height: 30px;
+  margin-left: 16px;
+  margin-top: 14px;
+}
+.semester .save{
+ float: left;
+ margin-left: 15px;
+}
+
+/*.page_heading_breadcrumb{
+   border-bottom: 1px solid #eee;
+    border-left: 3px solid #3399ff;
+    margin: 36px 11px 17px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-top: 4px;
+    background: #ffffff none repeat scroll 0 0;
+    
+    }*/
+    .page_heading_breadcrumb .breadcrumb{
+     background-color: #ffffff;
+     border-radius: 4px;
+     list-style: outside none none;
+     margin-bottom: 8px;
+     padding: 5px 8px;
+   }
+
+   .page_heading_breadcrumb .breadcrumb i{
+     padding-right: 8px;
+   }
+
+   .page_heading_breadcrumb .breadcrumb a{
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .page_heading_breadcrumb .active a{
+    color: #777;
+  }
+  .side_bar_right .panel-group{
+
+  }
+
+  .panel-heading span i{
+    color: #f44336;
+    float: right;
+    font-size: 22px;
+  }
+
+  .course .nav li.active a{
+    border-top: 4px solid #f44336;
+  }
+
+  .profile_tab #myTab {
+    background: white none repeat scroll 0 0;
+    box-shadow: 0 4px 5px 0 #bfbfbf;
+    display: block;
+  }
+  .profile_tab #myTab li.active a {
+    background: #f6f6f6 none repeat scroll 0 0;
+    border-bottom: 3px solid  #f44336;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+  }
+
+  .profile_tab #myTabContent {
+    background: white none repeat scroll 0 0;
+    border: 1px solid #e6e6e6;
+    box-shadow: 0 2px 3px 2px #e5e5e5;
+    padding: 9px;
+  }
+
+  .profile_tab #myTab li i {
+    color: #505050;
+    font-size: 17px;
+    padding-right: 11px;
+  }
+
+  .profile_tab .nav > li > a {
+    display: block;
+    position: relative;
+    padding: 12px 15px;
+  }
+
+  .profile_tab .nav-tabs > li > a {
+    line-height: 1.42857;
+    border: 0;
+    border-radius:0;
+    margin-right: 0;
+  }
+
+
+  .btn-success,.btn-info,.btn-danger,.btn-warning{
+
+    padding: 6px 12px;
+    border: 1px solid transparent;
+  }
+
+  .semester_info .btn-success,.semester_info .btn-info,.semester_info .btn-danger,.semester_info .btn-warning{
+
+    padding: 2px 7px;
+    border: 1px solid transparent;
+  }
+  #result_course tbody tr td{
+    cursor: pointer;
+    text-decoration: -moz-anchor-decoration;
+  }
+
+  #result_course{
+    display: none;
+  }
+  #result_type{
+
+    margin-top: 2%;
+    display: none;
+  }
+  .advising_result_tbl{
+    display: none;
+  }
+
+
+  .margin_top_27{
+    margin-top:27px;
+  }
+  .margin_top_20{
+    margin-top:20px;
+  }
+
+
+
+  /*for multiple dropdown selectbox*/
+  .selectRow {
+    display : block;
+    padding : 20px;
+  }
+  .select2-container {
+    width: 200px;
+    
+  }
+
+
+  /*program coordinator*/
+  .program_coordinator_search{
+    margin-top: 20px;
+  }
+  .program_coordinator_table{
+    margin-top: 20px;
+  }
+
+
+
+  /*photo upload css*/
+  .span-photo{
+    width:100%; 
+    margin-top:5px;
+  }
+
+
+  .btn-file {
+    position: relative;
+    overflow: hidden;
+  }
+  .btn-file-browse-photo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+  }
+
+  /*search panel on accounts module*/
+  .padding_0{
+    padding:0;
+  }
+
+  /*name uppercase convert*/
+
+  .uppercase_name{
+    text-transform:uppercase;
+  }
+
+  /*--------requireed sign-----------*/
+  .required-sign{
+    color:red;
+  }
+
+  /*confirmation declaration*/
+  .declaration{
+    font-size:15px;
+    font-weight:bold;
+    float:right;
+    margin-right:20px;
+    color:#85929e;
+  }
+
+  .declaration_confirm{
+    font-size:15px;
+    font-weight:bold;
+    float:right;
+    margin-right:20px;
+  }
+
+  /***********logs**************/
+  .errorlog_search_btn{
+   margin-top: 28px;
+ }
+
+
+ .errorlog_date{
+   padding-bottom: 20px;
+   padding-left: 50px;
+ }
+
+ .eventlog_search_btn{
+   margin-top: 28px;
+ }
+
+ .eventlog_date{
+   padding-bottom: 20px;
+   padding-left: 50px;
+ }
+
+ .accesslog_search_btn{
+   margin-top: 28px;
+ }
+
+ .accesslog_date{
+   padding-bottom: 20px;
+   padding-left: 50px;
+ }
+
+ .authlog_search_btn{
+   margin-top: 28px;
+ }
+
+ .authlog_date{
+   padding-bottom: 20px;
+   padding-left: 50px;
+ }
+
+ /*modal scrolling*/
+ .modal-body {
+  max-height: calc(100vh - 210px);
+  overflow-y: auto;
+}
+
+/*table level term th*/
+.lt{
+  background-color: #F2DEDE;
+}
+
+/*dashboard table design*/
+.profile_info tr{
+  border-bottom:1px solid green;
+}
+
+/*cursor pointer*/
+.cursor{
+  cursor:pointer;
+}
+
+/*dashborad_menus*/
+.dashborad_menus{
+  height: 100px;
+  padding-top: 8px;
+}
+
+
+/*schedule_td_hover*/
+.schedule_td_hover:hover{
+  background-color: aqua;
+}
+
+
+/*search width*/
+.page_row .search_width{
+  width: 70%;
+}
+
+
+/*search panel background color*/
+.search_panel_bg_color{
+  background-color:#aed6f1;
+}
+
+/*dashborad_heading*/
+
+.dashborad_heading{
+  font-size:20px;
+  padding:25px;
+}
+.dashborad_heading_div{
+  padding:5px
+}
+
+.dash_pad_0{
+  padding:0;
+}
+
+
+
+/*dashboard margin for extra menu*/
+
+.margin_top_20{
+  margin-top:20px;
+}
+
+
+/*toltip css*/
+.tooltip-inner {
+  background-color:   #85929e  ;
+  color: #fff;
+}
+
+.tooltip.top .tooltip-arrow {
+  border-top-color:  #85929e ;
+}
+
+.tooltip.right .tooltip-arrow {
+  border-right-color: #85929e;
+}
+
+.tooltip.bottom .tooltip-arrow {
+  border-bottom-color: #85929e;
+}
+
+.tooltip.left .tooltip-arrow {
+  border-left-color: #85929e;
+}

@@ -1,0 +1,4 @@
+04-21-2018 | 10:30:30 |   203.188.243.150|guest|Home|http://202.4.111.34:7080|Google Chrome|windows|||Bangladesh
+04-21-2018 | 10:31:56 |   203.188.243.150|guest|Home|http://202.4.111.34:7080|Google Chrome|windows|||Bangladesh
+04-21-2018 | 10:32:02 |   203.188.243.150|guest|Home|http://202.4.111.34:7080|Google Chrome|windows|||Bangladesh
+04-21-2018 | 10:46:35 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||Bangladesh

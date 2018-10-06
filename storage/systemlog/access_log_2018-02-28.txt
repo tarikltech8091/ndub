@@ -1,0 +1,322 @@
+02-28-2018 | 11:25:37 |   10.47.10.28|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+02-28-2018 | 11:25:52 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 11:26:13 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 11:26:14 |   10.47.10.28|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|||
+02-28-2018 | 11:28:08 |   10.47.10.28|17001|LogIn|http://202.4.111.34/register-dashboard/public/logout/shawon.james..d%27.cruze|Google Chrome|windows|||
+02-28-2018 | 11:28:09 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 11:28:25 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 11:28:25 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 11:31:22 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 11:31:23 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 11:36:53 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 11:36:54 |   10.47.10.28|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/deal.charles.gomes/home|Google Chrome|windows|||
+02-28-2018 | 12:14:07 |   10.47.11.11|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+02-28-2018 | 12:14:17 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 12:14:23 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 12:14:23 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/deal.charles.gomes/home|Google Chrome|windows|||
+02-28-2018 | 12:14:26 |   10.47.11.11|13002|Academic Settings|http://202.4.111.34/register-dashboard/public/academic-settings/home|Google Chrome|windows|||
+02-28-2018 | 12:15:46 |   10.47.11.11|13002|Academic Settings Form Submit|http://202.4.111.34/register-dashboard/public/academic-settings/home/department|Google Chrome|windows|||
+02-28-2018 | 12:15:47 |   10.47.11.11|13002|Academic Settings|http://202.4.111.34/register-dashboard/public/academic-settings/home?tab=department|Google Chrome|windows|||
+02-28-2018 | 12:18:03 |   10.47.11.11|13002|Academic Settings Form Submit|http://202.4.111.34/register-dashboard/public/academic-settings/home/program|Google Chrome|windows|||
+02-28-2018 | 12:18:03 |   10.47.11.11|13002|Academic Settings|http://202.4.111.34/register-dashboard/public/academic-settings/home?tab=program|Google Chrome|windows|||
+02-28-2018 | 12:18:29 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Google Chrome|windows|||
+02-28-2018 | 12:26:27 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Google Chrome|windows|||
+02-28-2018 | 12:26:38 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 12:37:13 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course/entry|Google Chrome|windows|||
+02-28-2018 | 12:37:14 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_add|Google Chrome|windows|||
+02-28-2018 | 12:37:53 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course/entry|Google Chrome|windows|||
+02-28-2018 | 12:37:54 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_add|Google Chrome|windows|||
+02-28-2018 | 12:38:34 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course/entry|Google Chrome|windows|||
+02-28-2018 | 12:38:34 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_add|Google Chrome|windows|||
+02-28-2018 | 12:42:37 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course/entry|Google Chrome|windows|||
+02-28-2018 | 12:42:37 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_add|Google Chrome|windows|||
+02-28-2018 | 12:48:03 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Google Chrome|windows|||
+02-28-2018 | 12:48:14 |   10.47.11.11|13002|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/12|Google Chrome|windows|||
+02-28-2018 | 12:48:18 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 12:53:44 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course/category/add|Google Chrome|windows|||
+02-28-2018 | 12:53:44 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_categoty|Google Chrome|windows|||
+02-28-2018 | 12:53:56 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Google Chrome|windows|||
+02-28-2018 | 12:54:47 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-category/update|Google Chrome|windows|||
+02-28-2018 | 12:54:48 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_catalogue|Google Chrome|windows|||
+02-28-2018 | 12:55:05 |   10.47.11.11|13002|Delete Course Catalouge|http://202.4.111.34/register-dashboard/public/academic-settings/delete-course-catalouge/e0597995-d621-4afb-a6b6-ef0898cb0f8e|Google Chrome|windows|||
+02-28-2018 | 12:55:05 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_catalogue|Google Chrome|windows|||
+02-28-2018 | 12:55:15 |   10.47.11.11|13002|Academic Settings|http://202.4.111.34/register-dashboard/public/academic-settings/home|Google Chrome|windows|||
+02-28-2018 | 12:55:37 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Google Chrome|windows|||
+02-28-2018 | 12:56:30 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings/delete/course_categoty/lab_work|Google Chrome|windows|||
+02-28-2018 | 12:56:30 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_categoty|Google Chrome|windows|||
+02-28-2018 | 12:57:28 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Google Chrome|windows|||
+02-28-2018 | 12:57:30 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Google Chrome|windows|||
+02-28-2018 | 13:02:14 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-category/update|Google Chrome|windows|||
+02-28-2018 | 13:02:14 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=course_catalogue|Google Chrome|windows|||
+02-28-2018 | 13:04:32 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 13:05:10 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 13:07:43 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Google Chrome|windows|||
+02-28-2018 | 13:08:27 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Google Chrome|windows|||
+02-28-2018 | 13:09:31 |   10.47.11.11|13002|Academic Settings|http://202.4.111.34/register-dashboard/public/academic-settings/home|Google Chrome|windows|||
+02-28-2018 | 13:11:11 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Google Chrome|windows|||
+02-28-2018 | 13:11:25 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Google Chrome|windows|||
+02-28-2018 | 13:11:43 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 13:12:22 |   103.4.146.142|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:12:24 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:12:51 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:12:51 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/academic.officer/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:12:54 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:12:54 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:13:21 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:14:22 |   103.4.146.142|771301|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:18:17 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 13:18:56 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Google Chrome|windows|||
+02-28-2018 | 13:19:13 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:22:24 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings/course_add/math1102_12_1_1|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:22:46 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Google Chrome|windows|||
+02-28-2018 | 13:22:55 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings/course_add/math1102_12_1_1|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:22:57 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Google Chrome|windows|||
+02-28-2018 | 13:23:07 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Google Chrome|windows|||
+02-28-2018 | 13:23:35 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings/course_add/math1102_12_1_1|Google Chrome|windows|||
+02-28-2018 | 13:23:38 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings/course_add/math1102_12_1_1|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:25:16 |   10.47.11.11|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings/course_add/phy1103_12_1_1|Google Chrome|windows|||
+02-28-2018 | 13:26:44 |   103.4.146.142|771301|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:26:58 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 13:31:13 |   103.4.146.142|771301|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:31:13 |   103.4.146.142|771301|Store Degree Plan|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/store-degree-plan|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:31:40 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:31:43 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:35:44 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:35:46 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:36:04 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:36:44 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:38:59 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 13:44:24 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 13:45:21 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:45:25 |   103.4.146.142|771301|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:45:51 |   10.47.11.11|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|||
+02-28-2018 | 13:47:18 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/12|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 13:47:20 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:03:31 |   103.4.146.142|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:03:34 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:03:54 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:03:54 |   103.4.146.142|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:03:55 |   103.4.146.142|771501|SystemAdmin Dashboard|http://202.4.111.34/register-dashboard/public/systemadmin/md.moudud.sabbir/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:04:29 |   103.4.146.142|771501|Error Logs|http://202.4.111.34/register-dashboard/public/system-admin/error-logs|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:04:29 |   103.4.146.142|771501|Error Logs|http://202.4.111.34/register-dashboard/public/system-admin/error-logs|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:05:45 |   103.4.146.142|771501|Error Logs|http://202.4.111.34/register-dashboard/public/system-admin/error-logs?form_search_date=2018-02-28&to_search_date=2018-02-28|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:18:39 |   103.4.146.142|771501|LogIn|http://202.4.111.34/register-dashboard/public/logout/md.moudud.sabbir|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:18:40 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:18:53 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:18:54 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/academic.officer/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:18:56 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:19:01 |   103.4.146.142|771301|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:19:12 |   103.4.146.142|771301|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/12|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:19:16 |   103.4.146.142|771301|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:19:26 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:19:34 |   103.4.146.142|771301|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:20:10 |   103.4.146.142|771301|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/12|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:20:12 |   103.4.146.142|771301|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:20:26 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:20:38 |   103.4.146.142|771301|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:20:44 |   103.4.146.142|771301|Store Degree Plan|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/store-degree-plan|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:20:44 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:20:55 |   103.4.146.142|771301|Delete Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/delete-degree-plan/b99fc0ba-a4a2-41c3-8f58-4732a9df8b24|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:20:55 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:22:06 |   103.4.146.142|771301|Delete Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/delete-degree-plan/b99fc0ba-a4a2-41c3-8f58-4732a9df8b24|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:22:06 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:34:18 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:42:27 |   10.47.11.10|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+02-28-2018 | 14:42:37 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:42:48 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:42:48 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:43:05 |   103.4.146.142|771301|Academic Settings|http://202.4.111.34/register-dashboard/public/academic-settings/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:43:07 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:43:08 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:43:26 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:43:26 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:43:39 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:43:39 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:44:02 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:44:02 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:44:21 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:44:21 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:44:44 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:44:45 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:46:04 |   10.47.11.11|13002|LogIn|http://202.4.111.34/register-dashboard/public/logout/deal.charles.gomes|Google Chrome|windows|||
+02-28-2018 | 14:46:08 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 14:46:20 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 14:46:20 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 14:46:40 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 14:46:41 |   10.47.11.11|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|||
+02-28-2018 | 14:46:47 |   10.47.11.11|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Google Chrome|windows|||
+02-28-2018 | 14:46:51 |   10.47.11.11|17001|LogIn|http://202.4.111.34/register-dashboard/public/logout/shawon.james..d%27.cruze|Google Chrome|windows|||
+02-28-2018 | 14:46:52 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 14:47:16 |   10.47.11.10|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+02-28-2018 | 14:47:18 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:47:20 |   103.4.146.142|771301|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:47:30 |   10.47.11.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+02-28-2018 | 14:47:31 |   10.47.11.10|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Mozilla Firefox|windows|||
+02-28-2018 | 14:47:33 |   103.4.146.142|771301|Catalouge List Ajax|http://202.4.111.34/register-dashboard/public/academic/catalouge-list/ajax/01|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 14:47:45 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/logout/deal.charles.gomes|Google Chrome|windows|||
+02-28-2018 | 14:47:46 |   10.47.10.28|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+02-28-2018 | 14:47:48 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 14:48:19 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/01|Mozilla Firefox|windows|||
+02-28-2018 | 14:55:58 |   10.47.11.10|17001|Faculty Registration Submit|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 14:55:59 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 14:56:45 |   10.47.11.10|17001|Faculty Registration Image|http://202.4.111.34/register-dashboard/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+02-28-2018 | 14:56:52 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 14:57:00 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 14:57:57 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/12|Mozilla Firefox|windows|||
+02-28-2018 | 14:58:01 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/01|Mozilla Firefox|windows|||
+02-28-2018 | 14:58:25 |   10.47.11.10|17001|Faculty Registration Image|http://202.4.111.34/register-dashboard/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+02-28-2018 | 14:59:00 |   10.47.11.10|17001|Faculty Registration Submit|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 14:59:00 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:05:53 |   10.47.11.10|17001|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course|Mozilla Firefox|windows|||
+02-28-2018 | 15:05:54 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:06:02 |   10.47.11.10|17001|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course|Mozilla Firefox|windows|||
+02-28-2018 | 15:06:02 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:06:07 |   10.47.11.10|17001|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course|Mozilla Firefox|windows|||
+02-28-2018 | 15:06:08 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:06:08 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/class-teacher-assign|Mozilla Firefox|windows|||
+02-28-2018 | 15:30:09 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:30:49 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/01|Mozilla Firefox|windows|||
+02-28-2018 | 15:33:05 |   10.47.11.10|17001|Faculty Registration Image|http://202.4.111.34/register-dashboard/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+02-28-2018 | 15:33:08 |   10.47.11.10|17001|Faculty Registration Submit|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:33:09 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:33:14 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:33:17 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/01|Mozilla Firefox|windows|||
+02-28-2018 | 15:34:53 |   10.47.11.10|17001|Faculty Registration Submit|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:34:54 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:34:58 |   10.47.11.10|17001|Faculty Registration Image|http://202.4.111.34/register-dashboard/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+02-28-2018 | 15:35:06 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/12|Mozilla Firefox|windows|||
+02-28-2018 | 15:35:09 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/01|Mozilla Firefox|windows|||
+02-28-2018 | 15:35:49 |   10.47.11.10|17001|Faculty Registration Submit|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:35:50 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:35:54 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:35:57 |   10.47.11.10|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/01|Mozilla Firefox|windows|||
+02-28-2018 | 15:37:13 |   10.47.11.10|17001|Faculty Registration Image|http://202.4.111.34/register-dashboard/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+02-28-2018 | 15:37:27 |   10.47.11.10|17001|Faculty Registration Submit|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 15:37:28 |   10.47.11.10|17001|Faculty Registration|http://202.4.111.34/register-dashboard/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+02-28-2018 | 18:29:19 |   103.219.232.65|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:29:25 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:29:38 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:29:38 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:29:48 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:29:49 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:29:54 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:29:55 |   103.219.232.65|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/deal.charles.gomes/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:29:58 |   103.219.232.65|13002|Academic Settings|http://202.4.111.34/register-dashboard/public/academic-settings/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:30:13 |   103.219.232.65|13002|Academic Settings|http://202.4.111.34/register-dashboard/public/academic-settings/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:30:14 |   103.219.232.65|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:30:35 |   103.219.232.65|13002|Academic|http://202.4.111.34/register-dashboard/public/academic/course-list/ajax/01|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:30:59 |   103.219.232.65|13002|View Degree Plan|http://202.4.111.34/register-dashboard/public/academic-settings/view/degree-plan-detail/5d9e0775-e270-4c65-8ba4-3d1cbd234baf|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:31:33 |   103.219.232.65|13002|LogIn|http://202.4.111.34/register-dashboard/public/logout/deal.charles.gomes|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:31:34 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:31:42 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:31:43 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:31:56 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:31:57 |   103.219.232.65|16002|SystemAdmin Dashboard|http://202.4.111.34/register-dashboard/public/systemadmin/sumon.hermon..costa/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:32:01 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:32:49 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account?faculty_id=AFRISTA%20BIRJIS|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:33:06 |   103.219.232.65|16002|Employee Account Create|http://202.4.111.34/register-dashboard/public/system-admin/employee-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:33:11 |   103.219.232.65|16002|Employee Account Create|http://202.4.111.34/register-dashboard/public/system-admin/employee-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:33:14 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:33:25 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account?faculty_id=%091601003|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:33:32 |   103.219.232.65|16002|SystemAdmin Dashboard|http://202.4.111.34/register-dashboard/public/systemadmin/sumon.hermon..costa/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:33:38 |   103.219.232.65|16002|System Users|http://202.4.111.34/register-dashboard/public/system-admin/system-users|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:34:42 |   103.219.232.65|16002|Student Account Creation|http://202.4.111.34/register-dashboard/public/systemadmin/student-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:34:47 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:00 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account?faculty_id=1601003|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:19 |   103.219.232.65|16002|Faculty Registration|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account-submit|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:20 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:29 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account?faculty_id=1501003|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:38 |   103.219.232.65|16002|Faculty Registration|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account-submit|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:39 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:47 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account?faculty_id=1601002|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:56 |   103.219.232.65|16002|Faculty Registration|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account-submit|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:35:56 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:05 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account?faculty_id=1401001|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:21 |   103.219.232.65|16002|Faculty Registration|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account-submit|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:22 |   103.219.232.65|16002|Faculty Account Create|http://202.4.111.34/register-dashboard/public/system-admin/faculty-account|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:26 |   103.219.232.65|16002|SystemAdmin Dashboard|http://202.4.111.34/register-dashboard/public/systemadmin/sumon.hermon..costa/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:28 |   103.219.232.65|16002|Auth Logs|http://202.4.111.34/register-dashboard/public/system-admin/auth-logs|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:40 |   103.219.232.65|16002|Error Logs|http://202.4.111.34/register-dashboard/public/system-admin/error-logs|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:49 |   103.219.232.65|16002|Event Logs|http://202.4.111.34/register-dashboard/public/system-admin/event-logs|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:54 |   103.219.232.65|16002|Access Logs|http://202.4.111.34/register-dashboard/public/system-admin/access-logs|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:36:57 |   103.219.232.65|16002|System Users|http://202.4.111.34/register-dashboard/public/system-admin/system-users|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:37:02 |   103.219.232.65|16002|LogIn|http://202.4.111.34/register-dashboard/public/logout/sumon.hermon..costa|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:37:03 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:37:18 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:37:19 |   103.219.232.65|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:37:29 |   103.219.232.65|17001|Trimester Student Assign|http://202.4.111.34/register-dashboard/public/register/trimester-student-assign|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:37:30 |   103.219.232.65|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:38:36 |   103.219.232.65|17001|Time Slot|http://202.4.111.34/register-dashboard/public/register/univ-time-slot|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:40:50 |   103.219.232.65|17001|Time Slot Submit|http://202.4.111.34/register-dashboard/public/register/univ-time-slot|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:40:50 |   103.219.232.65|17001|Time Slot|http://202.4.111.34/register-dashboard/public/register/univ-time-slot|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:41:25 |   103.219.232.65|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:41:27 |   103.219.232.65|17001|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:41:28 |   103.219.232.65|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:41:30 |   103.219.232.65|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/class-teacher-assign|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:42:21 |   103.219.232.65|17001|Class Schedule|http://202.4.111.34/register-dashboard/public/register/class-schedule|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:42:25 |   103.219.232.65|17001|Ajax Room List|http://202.4.111.34/register-dashboard/public/register/ajax-room-list/01|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:42:25 |   103.219.232.65|17001|Ajax Course List|http://202.4.111.34/register-dashboard/public/register/ajax-course-list/01|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:42:36 |   103.219.232.65|17001|Ajax Room List|http://202.4.111.34/register-dashboard/public/register/ajax-room-list/N-MC01|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:43:02 |   103.219.232.65|17001|LogIn|http://202.4.111.34/register-dashboard/public/logout/shawon.james..d%27.cruze|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:43:03 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:45:31 |   103.219.232.65|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:45:34 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:46:04 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:46:04 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:46:31 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:46:32 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:47:03 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:47:04 |   103.219.232.65|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:47:18 |   103.219.232.65|17001|Registrar Student Grade Sheet|http://202.4.111.34/register-dashboard/public/register/student/grade-sheet|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:47:23 |   103.219.232.65|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:47:36 |   103.219.232.65|17001|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/class-teacher-assign|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:48:08 |   103.219.232.65|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:48:33 |   103.219.232.65|17001|LogIn|http://202.4.111.34/register-dashboard/public/logout/shawon.james..d%27.cruze|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:48:34 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:48:45 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:48:46 |   103.219.232.65|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:48:58 |   103.219.232.65|771201|Academic Calender Registration|http://202.4.111.34/register-dashboard/public/register/academic-calender-registration|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:53:10 |   103.219.232.65|771201|Academic Calender Registration Submit|http://202.4.111.34/register-dashboard/public/register/academic-calender-registration|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:53:10 |   103.219.232.65|771201|Academic Calender Registration|http://202.4.111.34/register-dashboard/public/register/academic-calender-registration|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:53:13 |   103.219.232.65|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:53:21 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:53:32 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=3|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:01 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:29 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/insert|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:30 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:32 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/insert|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:32 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:38 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/insert|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:38 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:51 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/delete|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:51 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:54 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/delete|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:54:54 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:01 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/insert|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:01 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:07 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/insert|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:08 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:13 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/insert|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:13 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:18 |   103.219.232.65|771201|Faculty Assigned Course Submit|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course/insert|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:18 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=01&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:26 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=2&program=12&semester=1&term=2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 18:55:31 |   103.219.232.65|771201|Faculty Assigned Course|http://202.4.111.34/register-dashboard/public/register/faculty-assigned-course?academic_year=2018&level=1&program=12&semester=1&term=1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:02:15 |   103.219.232.65|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:02:45 |   103.219.232.65|771201|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/class-teacher-assign|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:02:49 |   103.219.232.65|771201|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/faculty-list-ajax/01|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:02:49 |   103.219.232.65|771201|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/program-list-ajax/01|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:03:04 |   103.219.232.65|771201|Class Teacher Assign Submit|http://202.4.111.34/register-dashboard/public/register/class-teacher-assign|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:03:04 |   103.219.232.65|771201|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/class-teacher-assign|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:03:12 |   103.219.232.65|771201|Class Teacher Edit|http://202.4.111.34/register-dashboard/public/register/class-teacher-edit/149b0a16-2cfd-4467-b415-245f05630db0|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:03:15 |   103.219.232.65|771201|Class Teacher Assign|http://202.4.111.34/register-dashboard/public/register/class-teacher-assign|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:03:44 |   103.219.232.65|771201|Trimester Student Assign|http://202.4.111.34/register-dashboard/public/register/trimester-student-assign|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:03:47 |   103.219.232.65|771201|Register Existing Student Batch By Program|http://202.4.111.34/register-dashboard/public/register/existing/student/batch/program-01|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:03:52 |   103.219.232.65|771201|Trimester Student Assign|http://202.4.111.34/register-dashboard/public/register/trimester-student-assign?academic_year=2018&batch_no=0&program=01&semester=1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:04:07 |   103.219.232.65|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:04:32 |   103.219.232.65|771201|LogIn|http://202.4.111.34/register-dashboard/public/logout/mr.jonny|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:04:33 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:05:09 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:05:10 |   103.219.232.65|17001|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/shawon.james..d'.cruze/home|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:06:12 |   103.219.232.65|17001|LogIn|http://202.4.111.34/register-dashboard/public/logout/shawon.james..d%27.cruze|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+02-28-2018 | 19:06:13 |   103.219.232.65|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh

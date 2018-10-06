@@ -1,0 +1,26 @@
+04-02-2018 | 11:54:10 |   103.4.146.142|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:54:58 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:55:04 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:55:05 |   103.4.146.142|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:55:23 |   103.4.146.142|771101|Accounts Summary|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:55:29 |   103.4.146.142|771101|Accounts Summary|http://202.4.111.34/register-dashboard/public/accounts/account-summery?date_from=2017-11-27&date_to=2018-04-02&program=0|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:56:12 |   103.4.146.142|771101|LogIn|http://202.4.111.34/register-dashboard/public/logout/deal.gomes|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:56:13 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:56:18 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:56:19 |   103.4.146.142|6-16010123|Student Dashboard|http://202.4.111.34/register-dashboard/public/student/md..saquib.hossain/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:56:22 |   103.4.146.142|6-16010123|Student Payment Ledger|http://202.4.111.34/register-dashboard/public/student/payment-history|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 11:58:26 |   103.4.146.142|6-16010123|Student Payment Ledger|http://202.4.111.34/register-dashboard/public/student/payment-history|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:01:56 |   103.4.146.142|6-16010123|Student Payment Ledger|http://202.4.111.34/register-dashboard/public/student/payment-history|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:03:53 |   103.4.146.142|6-16010123|Student Payment Ledger|http://202.4.111.34/register-dashboard/public/student/payment-history|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:03:59 |   103.4.146.142|6-16010123|Student Payment Ledger Ajax|http://202.4.111.34/register-dashboard/public/student/payment-history/2.2018|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:04:02 |   103.4.146.142|6-16010123|Student Payment Ledger Ajax|http://202.4.111.34/register-dashboard/public/student/payment-history/1.2018|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:06:41 |   103.4.146.142|6-16010123|LogIn|http://202.4.111.34/register-dashboard/public/logout/md..saquib.hossain|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:06:42 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:06:46 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:06:46 |   103.4.146.142|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:07:01 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:07:05 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=181013537|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:07:05 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 12:07:10 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=6-16010123|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 15:28:07 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-02-2018 | 15:33:10 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh

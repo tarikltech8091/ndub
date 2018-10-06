@@ -1,0 +1,4 @@
+03-08-2018 | 16:03:03 |   103.4.146.142|181010001|Log In|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-08-2018 | 18:01:36 |   103.4.146.142|181010001|Log In|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-08-2018 | 18:01:42 |   103.4.146.142|181010001|Log Out|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-08-2018 | 18:02:12 |   103.4.146.142|771301|Log Out|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh

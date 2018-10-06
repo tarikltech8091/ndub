@@ -1,0 +1,24 @@
+05-23-2018 | 14:39:37 |   10.47.11.11|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+05-23-2018 | 14:40:03 |   10.47.11.96|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+05-23-2018 | 14:40:10 |   10.47.11.96|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application|Google Chrome|windows|||
+05-23-2018 | 14:40:12 |   10.47.11.96|guest|Applicant Information|http://202.4.111.34/register-dashboard/public/online-application/applicant|Google Chrome|windows|||
+05-23-2018 | 14:40:14 |   10.47.11.96|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Google Chrome|windows|||
+05-23-2018 | 14:40:33 |   10.47.11.96|guest|Applicant Admission Result|http://202.4.111.34/register-dashboard/public/online-application/applicant/admission-result|Google Chrome|windows|||
+05-23-2018 | 14:41:08 |   10.47.11.96|guest|Applicant Information|http://202.4.111.34/register-dashboard/public/online-application/applicant|Google Chrome|windows|||
+05-23-2018 | 14:41:08 |   10.47.11.96|guest|Applicant Information|http://202.4.111.34/register-dashboard/public/online-application/applicant|Google Chrome|windows|||
+05-23-2018 | 14:41:10 |   10.47.11.96|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Google Chrome|windows|||
+05-23-2018 | 14:41:23 |   10.47.11.96|guest|Applicant Admission Result|http://202.4.111.34/register-dashboard/public/online-application/applicant/admission-result|Google Chrome|windows|||
+05-23-2018 | 14:41:23 |   10.47.11.96|guest|Applicant Admission Result|http://202.4.111.34/register-dashboard/public/online-application/applicant/admission-result|Google Chrome|windows|||
+05-23-2018 | 14:41:24 |   10.47.11.96|guest|Applicant Information|http://202.4.111.34/register-dashboard/public/online-application/applicant|Google Chrome|windows|||
+05-23-2018 | 14:41:24 |   10.47.11.96|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Google Chrome|windows|||
+05-23-2018 | 14:46:26 |   10.47.11.96|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Google Chrome|windows|||
+05-23-2018 | 14:46:28 |   10.47.11.96|guest|Applicant Information|http://202.4.111.34/register-dashboard/public/online-application/applicant|Google Chrome|windows|||
+05-23-2018 | 14:46:29 |   10.47.11.96|guest|Applicant Admission Result|http://202.4.111.34/register-dashboard/public/online-application/applicant/admission-result|Google Chrome|windows|||
+05-23-2018 | 14:46:29 |   10.47.11.96|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Google Chrome|windows|||
+05-23-2018 | 14:48:49 |   10.47.11.96|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Google Chrome|windows|||
+05-23-2018 | 14:48:50 |   10.47.11.96|guest|Applicant Information|http://202.4.111.34/register-dashboard/public/online-application/applicant|Google Chrome|windows|||
+05-23-2018 | 14:48:50 |   10.47.11.96|guest|Applicant Admission Result|http://202.4.111.34/register-dashboard/public/online-application/applicant/admission-result|Google Chrome|windows|||
+05-23-2018 | 14:48:51 |   10.47.11.96|guest|Online Application|http://202.4.111.34/register-dashboard/public/online-application/form|Google Chrome|windows|||
+05-23-2018 | 16:25:40 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+05-23-2018 | 16:25:47 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+05-23-2018 | 16:29:21 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||

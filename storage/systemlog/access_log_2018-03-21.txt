@@ -1,0 +1,14 @@
+03-21-2018 | 10:41:35 |   10.47.10.35|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+03-21-2018 | 10:43:31 |   10.47.10.35|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-21-2018 | 16:02:28 |   10.47.11.11|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+03-21-2018 | 16:02:32 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-21-2018 | 16:03:19 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-21-2018 | 16:03:20 |   10.47.11.11|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Google Chrome|windows|||
+03-21-2018 | 16:03:23 |   10.47.11.11|771201|Academic Calender Registration|http://202.4.111.34/register-dashboard/public/register/academic-calender-registration|Google Chrome|windows|||
+03-21-2018 | 16:03:40 |   10.47.11.11|771201|Academic Calender Edit|http://202.4.111.34/register-dashboard/public/register/academic-calender/edit/f1d68d44-8b42-4b29-826c-8edc888d4097|Google Chrome|windows|||
+03-21-2018 | 16:04:00 |   10.47.11.11|771201|Academic Calender Update|http://202.4.111.34/register-dashboard/public/register/academic-calender/update/f1d68d44-8b42-4b29-826c-8edc888d4097|Google Chrome|windows|||
+03-21-2018 | 16:04:00 |   10.47.11.11|771201|Academic Calender Registration|http://202.4.111.34/register-dashboard/public/register/academic-calender-registration|Google Chrome|windows|||
+03-21-2018 | 16:04:04 |   10.47.11.11|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Google Chrome|windows|||
+03-21-2018 | 16:04:41 |   10.47.11.11|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Google Chrome|windows|||
+03-21-2018 | 16:04:45 |   10.47.11.11|771201|LogIn|http://202.4.111.34/register-dashboard/public/logout/mr.jonny|Google Chrome|windows|||
+03-21-2018 | 16:04:46 |   10.47.11.11|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||

@@ -1,0 +1,2 @@
+04-12-2018 | 16:46:11 |   203.188.243.150|771201|http://202.4.111.34/register-dashboard/public/login|update,users|1
+04-12-2018 | 16:46:12 |   203.188.243.150|771201|http://202.4.111.34/register-dashboard/public/login|insert,auth_log|{"auth_tran_code":"a119bcc9-caf0-40ad-a170-21f75e46620d","auth_client_ip":"203.188.243.150","auth_user_id":"771201","auth_browser":"Mozilla Firefox","auth_platform":"windows","auth_city":"","auth_division":"","auth_country":"Bangladesh","auth_type":"Log In","created_at":"2018-04-12 16:46:12","updated_at":"2018-04-12 16:46:12"}

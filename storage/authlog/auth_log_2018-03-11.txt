@@ -1,0 +1,10 @@
+03-11-2018 | 08:39:38 |   10.47.10.16|2-15010121|Log In|Google Chrome|windows|||
+03-11-2018 | 08:47:35 |   10.47.10.16|2-15010121|Log Out|Google Chrome|windows|||
+03-11-2018 | 09:26:24 |   10.47.10.10|2-15010122|Log In|Mozilla Firefox|windows|||
+03-11-2018 | 09:29:18 |   10.47.10.10|2-15010122|Log Out|Mozilla Firefox|windows|||
+03-11-2018 | 12:04:35 |   10.47.10.16|771301|Log In|Google Chrome|windows|||
+03-11-2018 | 12:51:37 |   10.47.10.10|2-15010122|Log In|Mozilla Firefox|windows|||
+03-11-2018 | 12:57:02 |   10.47.10.10|2-15010122|Log Out|Mozilla Firefox|windows|||
+03-11-2018 | 13:03:17 |   10.47.10.10|2-15010122|Log In|Google Chrome|windows|||
+03-11-2018 | 13:09:26 |   10.47.10.10|2-15010122|Log Out|Google Chrome|windows|||
+03-11-2018 | 15:45:08 |   10.47.10.16|771301|Log Out|Google Chrome|windows|||

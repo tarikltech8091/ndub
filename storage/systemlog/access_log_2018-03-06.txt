@@ -1,0 +1,9 @@
+03-06-2018 | 09:46:43 |   10.47.10.10|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+03-06-2018 | 09:46:56 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+03-06-2018 | 09:47:02 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||
+03-06-2018 | 09:47:03 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+03-06-2018 | 09:47:05 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|||
+03-06-2018 | 09:47:05 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|||
+03-06-2018 | 09:47:10 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010121|Mozilla Firefox|windows|||
+03-06-2018 | 09:48:28 |   10.47.10.10|771101|Accounts Fee Name List|http://202.4.111.34/register-dashboard/public/register/student/fee-tution_fee|Mozilla Firefox|windows|||
+03-06-2018 | 09:52:43 |   10.47.10.10|771101|Accounts Fee Name List|http://202.4.111.34/register-dashboard/public/register/student/fee-Waiver|Mozilla Firefox|windows|||

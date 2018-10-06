@@ -1,0 +1,14 @@
+04-12-2018 | 15:25:19 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 16:01:02 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||Bangladesh
+04-12-2018 | 16:04:12 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||Bangladesh
+04-12-2018 | 16:05:21 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 16:11:09 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 16:21:05 |   103.4.146.142|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+04-12-2018 | 16:36:03 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|linux|||Bangladesh
+04-12-2018 | 16:45:56 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 16:45:59 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 16:46:11 |   203.188.243.150|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 16:46:12 |   203.188.243.150|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 16:46:26 |   203.188.243.150|771201|Trimester Student Assign|http://202.4.111.34/register-dashboard/public/register/trimester-student-assign|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 16:46:26 |   203.188.243.150|771201|Trimester Student Assign|http://202.4.111.34/register-dashboard/public/register/trimester-student-assign|Mozilla Firefox|windows|||Bangladesh
+04-12-2018 | 17:36:22 |   203.188.243.150|771201|Registrar Dashboard|http://202.4.111.34/register-dashboard/public/register/mr.jonny/home|Mozilla Firefox|windows|||Bangladesh

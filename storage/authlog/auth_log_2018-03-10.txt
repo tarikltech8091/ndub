@@ -1,0 +1,4 @@
+03-10-2018 | 09:21:29 |   10.47.11.11|13002|Log In|Google Chrome|windows|||
+03-10-2018 | 09:21:35 |   10.47.11.11|13002|Log Out|Google Chrome|windows|||
+03-10-2018 | 09:21:48 |   10.47.11.11|17001|Log In|Google Chrome|windows|||
+03-10-2018 | 09:26:19 |   10.47.11.11|17001|Log Out|Google Chrome|windows|||

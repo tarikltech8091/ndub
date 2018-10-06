@@ -1,0 +1,1 @@
+04-01-2018 | 18:08:27 |   103.4.146.142|771101|http://202.4.111.34/register-dashboard/public/accounts/student-payment-update/fd53c010-cd6c-4f27-b1c0-1da2b93fc2ed|Message : Undefined variable: payment_amounts, File : /var/www/html/register-dashboard/app/Http/Controllers/AccountsController.php, Line : 1287

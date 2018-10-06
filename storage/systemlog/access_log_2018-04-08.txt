@@ -1,0 +1,2 @@
+04-08-2018 | 16:07:45 |   10.47.11.15|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+04-08-2018 | 16:08:53 |   10.47.11.15|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||

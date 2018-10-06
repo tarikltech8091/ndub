@@ -1,0 +1,2 @@
+04-24-2018 | 08:49:10 |   10.47.11.15|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+04-24-2018 | 10:52:53 |   203.188.243.150|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|linux|||Bangladesh

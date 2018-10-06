@@ -1,0 +1,20 @@
+03-12-2018 | 14:18:27 |   10.47.10.10|guest|Home|http://202.4.111.34/register-dashboard/public|Mozilla Firefox|windows|||
+03-12-2018 | 15:07:08 |   10.47.10.10|guest|Home|http://202.4.111.34/register-dashboard/public|Google Chrome|windows|||
+03-12-2018 | 15:08:58 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-12-2018 | 15:09:01 |   10.47.10.10|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Google Chrome|windows|||
+03-12-2018 | 15:09:02 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-12-2018 | 15:16:14 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-12-2018 | 15:16:48 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=6-16010136|Google Chrome|windows|||
+03-12-2018 | 15:16:48 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-12-2018 | 15:16:55 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010122|Google Chrome|windows|||
+03-12-2018 | 15:20:59 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-12-2018 | 15:21:01 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-12-2018 | 15:21:04 |   10.47.10.10|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Google Chrome|windows|||
+03-12-2018 | 15:21:07 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-12-2018 | 15:21:41 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery|Google Chrome|windows|||
+03-12-2018 | 15:21:54 |   10.47.10.10|771101|Accounts Summery|http://202.4.111.34/register-dashboard/public/accounts/account-summery?date_from=2018-01-01&date_to=2018-03-12&program=0|Google Chrome|windows|||
+03-12-2018 | 15:27:59 |   10.47.10.10|771101|Accounts Dashboard|http://202.4.111.34/register-dashboard/public/accounts/deal.gomes/home|Google Chrome|windows|||
+03-12-2018 | 17:09:42 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-12-2018 | 17:09:55 |   103.4.146.142|guest|LogIn|http://202.4.111.34/register-dashboard/public/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-12-2018 | 17:09:55 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-12-2018 | 17:10:20 |   103.4.146.142|771101|Student Payment Transaction|http://202.4.111.34/register-dashboard/public/accounts/student-payment-transaction?student_serial_no=2-15010122|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
